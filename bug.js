@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI and involves an issue with the managed workflow and the `expo prebuild` command.  The error message is often vague, sometimes mentioning a problem with the Android build, but without specific details. The project might build successfully on iOS but fail consistently on Android.
